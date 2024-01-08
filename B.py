@@ -642,7 +642,6 @@ def shoha_menu():
         time.sleep(3.0)
         
         os.system("clear")
-        logo()
         print( '''    ╭──────  \x1b[1;92m•\x1b[1;91m•\x1b[1;96m• \x1b[0m DETAILS \x1b[1;96m•\x1b[1;91m•\x1b[1;92m• \x1b[0m  ──────────╮
     │       YOUR KEY IS NOT APROVED       │
     │         THIS TOOL IS PAID           │   
